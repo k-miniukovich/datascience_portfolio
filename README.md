@@ -1,2 +1,2 @@
 # datascience_portfolio
-Contain solutions to some practical problems
+Contains solutions to some practical problems
